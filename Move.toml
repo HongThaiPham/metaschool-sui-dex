@@ -1,6 +1,7 @@
 [package]
 name = "dex"
-edition = "legacy" # edition = "legacy" to use legacy (pre-2024) Move
+edition = "legacy"                                                                  # edition = "legacy" to use legacy (pre-2024) Move
+published-at = "0xa1dce324bcf781692a358adb27bd105844231d35863b5c99f94e54801d653788"
 # license = ""           # e.g., "MIT", "GPL", "Apache 2.0"
 # authors = ["..."]      # e.g., ["Joe Smith (joesmith@noemail.com)", "John Snow (johnsnow@noemail.com)"]
 
